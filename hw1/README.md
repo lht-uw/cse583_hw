@@ -1,0 +1,1 @@
+To complete this homework, I used a mix of Google, geeksforgeeks.org, and Stack Overflow. For general use of the libraries, I used geeksforgeeks which gave a lot of examples for how to manipulate and generate the plot. 
